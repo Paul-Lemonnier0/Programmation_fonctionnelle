@@ -4,7 +4,7 @@ Ce répertoire contient une collection de travaux pratiques réalisés en utilis
 
 ## Contenu
 
-- [TP1](TP1.ml) : Introduction à la programmation logique, fonctions numériques
+- [TP1](TP1/) : Introduction à la programmation logique, fonctions numériques
 - [TP2](TP2/) : Listes
 - [TP3](TP3/) : Types, arbres binaires/n-aires, expression arithmétiques avec variables
 
